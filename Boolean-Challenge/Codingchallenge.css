@@ -1,0 +1,43 @@
+
+#logo{
+  max-width: 17%;
+}
+
+header , nav{
+  text-align: center
+}
+
+body {
+  background: url(background.jpg); background-size: cover; align-items: center; font-family: sans-serif;
+}
+
+nav {
+  background-color: lime; align-items: center; padding: 8px;
+}
+
+main {
+  color: white; text-align: left;
+}
+
+header {
+  color: lime;
+}
+
+
+.bg {
+  width: 750px ; padding: 51px; margin: 2% 15% 4% 15%; background-color: rgba(0, 0, 0, 0.5); border-radius: 2%;
+}
+
+
+/* % batteria monopattini */
+#Gino22{
+  width: 190px; border: 10px solid orange;border-radius: 4px;
+}
+
+#Mike24{
+  width: 430px; border: 10px solid lime;border-radius: 4px;
+}
+
+#Fede154 {
+  width: 90px; border: 10px solid Red; border-radius: 4px;
+}
